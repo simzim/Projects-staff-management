@@ -10,6 +10,8 @@ Learning PHP
 ![image](https://user-images.githubusercontent.com/38910059/152654459-8033dbac-9ee2-4c8b-a88d-9e8a2cdba244.png)
 ### Staff list page
 ![image](https://user-images.githubusercontent.com/38910059/152654592-0f06d811-15e0-4d2f-8e11-7470a0fbaa7e.png)
+### Employee details page
+![image](https://user-images.githubusercontent.com/38910059/152657639-f8a19db1-f00e-4fe4-b651-6d102eeb2be5.png)
 ### Teams list page
 ![image](https://user-images.githubusercontent.com/38910059/152654616-fae45745-0307-4ebe-9823-fd627884c87c.png)
 ### Categories list page
